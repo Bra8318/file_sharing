@@ -1,0 +1,6 @@
+db.env
+alembic
+__pycache__
+myenv
+uploads
+alembic.ini
